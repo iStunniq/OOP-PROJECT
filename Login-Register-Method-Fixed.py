@@ -1,3 +1,4 @@
+# nested list of admin usernames and their passwords
 admin_users = [
     ["admin_name", "1234"]
 ]
